@@ -1,3 +1,6 @@
+My Follow me on Nostr
+`npub1tcalvjvswjh5rwhr3gywmfjzghthexjpddzvlxre9wxfqz4euqys0309hn`
+
 This page will (soon) help you navigate the waters of Bitcoin Calendar and stay put for all important happenings in the Bitcoin & Nostr communities.
 
 BitCal is maintained by Tony
