@@ -1,7 +1,4 @@
-# BitCal
-#### *BitCal is your Nostr buddy making sure that you don't miss any bitcoin holidays or events.*
-
-This page is meant to help you navigate the waters of Bitcoin Calendar and stay put for all important happenings in tha Bitcoin & Nostr communities.
+This page will (soon) help you navigate the waters of Bitcoin Calendar and stay put for all important happenings in the Bitcoin & Nostr communities.
 
 BitCal is maintained by Tony
 `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
