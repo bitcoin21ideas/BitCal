@@ -4,5 +4,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [Nostr-ресурсы]
-description: [Всеобъемлющий русскоязычный ресурс про Nostr]
+title: [BitCal]
+description: [Your Nostr buddy ensuring you do not miss any Bitcoin holidays or events]
