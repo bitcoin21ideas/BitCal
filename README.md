@@ -1,6 +1,6 @@
 Follow me on Nostr
 
-[Nostr-QR](https://github.com/bitcoin21ideas/BitCal/blob/main/images/QRs/BitCal%20Nostr%20QR.png) 
+![Nostr-QR](https://github.com/bitcoin21ideas/BitCal/blob/main/images/QRs/BitCal%20Nostr%20QR.png) 
 
 `npub1tcalvjvswjh5rwhr3gywmfjzghthexjpddzvlxre9wxfqz4euqys0309hn`
 
